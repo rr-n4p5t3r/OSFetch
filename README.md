@@ -27,7 +27,7 @@ Para instalar OSFetch en Linux, sigue estos pasos:
 
    Clona el repositorio desde GitHub:
 
-   ```bash
+   bash
    git clone https://github.com/rr-n4p5t3r/OSFetch.git
 
    Navega al directorio del proyecto:
