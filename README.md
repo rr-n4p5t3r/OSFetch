@@ -12,30 +12,30 @@ Este proyecto está basado en el proyecto [Neofetch](https://github.com/alexiars
 
 **OSFetch.py** es el script principal que obtiene información del sistema operativo y muestra un logotipo ASCII del mismo. Utiliza bibliotecas como `platform`, `psutil` y `colorama` para recopilar y formatear la información del sistema.
 
-# Estructura del Proyecto OSFetch
+## Estructura del Proyecto OSFetch
 
-## Scripts de Instalación
+### Scripts de Instalación
 
 - **script/**
   - `install_linux.sh`
   - `install_windows.sh`
 
-## Código Fuente
+### Código Fuente
 
 - **src/**
   - `neofetch/`
   - `OSFetch.py`
   - `requirements.txt`
 
-## Documentación
+### Documentación
 
 - **doc/**
 
-## Archivos de Licencia
+### Archivos de Licencia
 
 - `LICENSE`
 
-## Archivo README
+### Archivo README
 
 - `README.md`
 
@@ -78,7 +78,7 @@ Este proyecto está licenciado bajo la [Licencia Pública General de GNU, versi�
 Email: rrosero2000@gmail.com  
 GitHub: [rr-n4p5t3r](https://github.com/rr-n4p5t3r)
 
-### Invítame un café: ###
+## Invítame un café:
 
 <div id="badges">
   <a href="https://www.buymeacoffee.com/elblogden4p5t3r" target="_blank">
