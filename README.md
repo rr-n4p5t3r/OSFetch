@@ -25,20 +25,20 @@ El proyecto tiene la siguiente estructura de directorios:
 
 Para instalar OSFetch en Linux, sigue estos pasos:
 
-1. Clona el repositorio desde GitHub:
+   Clona el repositorio desde GitHub:
 
    ```bash
    git clone https://github.com/rr-n4p5t3r/OSFetch.git
 
-    Navega al directorio del proyecto:
+   Navega al directorio del proyecto:
 
     bash
 
-cd OSFetch
-
-Instala las dependencias utilizando pip:
-
-bash
+   cd OSFetch
+   
+   Instala las dependencias utilizando pip:
+   
+   bash
 
     pip install -r requirements.txt
 
