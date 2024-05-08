@@ -124,5 +124,26 @@ class SystemLogo:
             ################  ################
             """
         
+        elif os_name == "Mac OS X" or os_name == "macOS" or os_name == "OS X":
+            return f"{Fore.WHITE}" + """
+                                c.'
+                            ,xNMM.
+                        .OMMMMo
+                        lMMM"
+                .;loddo:.  .olloddol;.
+            cKMMMMMMMMMMNWMMMMMMMMMM0:
+            .KMMMMMMMMMMMMMMMMMMMMMMMWd.
+            XMMMMMMMMMMMMMMMMMMMMMMMX.
+            ;MMMMMMMMMMMMMMMMMMMMMMMM:
+            :MMMMMMMMMMMMMMMMMMMMMMMM:
+            .MMMMMMMMMMMMMMMMMMMMMMMMX.
+            kMMMMMMMMMMMMMMMMMMMMMMMMWd.
+            'XMMMMMMMMMMMMMMMMMMMMMMMMMMk
+            'XMMMMMMMMMMMMMMMMMMMMMMMMK.
+              kMMMMMMMMMMMMMMMMMMMMMMd
+               ;KMMMMMMMWXXWMMMMMMMk.
+                "cooc*"    "*coo'"
+            """            
+        
         else:
             return "Unsupported OS"
