@@ -47,7 +47,7 @@ Este proyecto está basado en el proyecto [Neofetch](https://github.com/alexiars
 ### Archivo Actualizaciones
 
 - `Actualizaciones.md`
-
+  
 ## Instalación
 
 ### Linux
