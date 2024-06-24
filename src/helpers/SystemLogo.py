@@ -1,4 +1,5 @@
 import platform
+import distro
 from colorama import Fore, Style
 
 class SystemLogo:
@@ -10,7 +11,7 @@ class SystemLogo:
         os_name = platform.system()
 
         if os_name == "Linux":
-            dist_info = platform.linux_distribution()
+            dist_info = distro.linux_distribution()
             dist_name = dist_info[0].lower()
             if "debian" in dist_name:
                 return f"{Fore.RED}" + """
