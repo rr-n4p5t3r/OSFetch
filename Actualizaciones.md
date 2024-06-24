@@ -4,6 +4,10 @@
 
 En este archivo estaré cargando las actualizaciones correspondientes que se le realicen al proyecto
 
+## Junio 23 de 2024
+
+Se actualizaron nuevas bibliotecas implementadas en el proyecto, debido a que las que se utilizaron inicialmente ya quedaron obsoletas y se modificaron unas líneas en el código fuente.
+
 ## Mayo 8 de 2024
 
 Se genera nueva estructura del proyecto **OSFetch.py** .
